@@ -1,0 +1,20 @@
+ul {
+    color: rgb(35, 8, 59);
+    list-style-type: none;
+    display: inline;
+    position: fixed;
+    top: 0;
+    
+}
+ul > li > a {
+    color: rgb(236, 207, 213);
+    text-decoration: none;
+    
+}
+ul > li {
+    display: inline;
+} 
+body {
+    background-image: url(https://i.stack.imgur.com/spmUM.gif);
+}
+
